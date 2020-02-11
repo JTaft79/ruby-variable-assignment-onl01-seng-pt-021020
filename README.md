@@ -1,3 +1,4 @@
+Hello World
 # Variable Assignment
 
 ## Objectives
